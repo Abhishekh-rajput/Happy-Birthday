@@ -37,4 +37,4 @@ const foo = () =>{
         img.classList.remove('img1');
         $(".greet").hide();
     }
-}
+} 
